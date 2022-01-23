@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2nfsq4bUAmMEZdb9I7Fcp0+UyNYPxiaaM+k9KmmgAUA5WEU3hO8jU3IwLM0NiF7MgzhZLSHueIWnQDAcCa0dJw==",
+  "success": true,
+  "projectFilePath": "C:\\work\\DevCon.Code\\DevCon.Code.Business\\DevCon.Code.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adrian.ilie@cegeka.com\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

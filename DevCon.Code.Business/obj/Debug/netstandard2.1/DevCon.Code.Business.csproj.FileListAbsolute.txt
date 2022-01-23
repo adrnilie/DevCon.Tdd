@@ -1,0 +1,12 @@
+C:\work\DevCon.Code\DevCon.Code.Business\obj\Debug\netstandard2.1\DevCon.Code.Business.csproj.AssemblyReference.cache
+C:\work\DevCon.Code\DevCon.Code.Business\obj\Debug\netstandard2.1\DevCon.Code.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\DevCon.Code\DevCon.Code.Business\obj\Debug\netstandard2.1\DevCon.Code.Business.AssemblyInfoInputs.cache
+C:\work\DevCon.Code\DevCon.Code.Business\obj\Debug\netstandard2.1\DevCon.Code.Business.AssemblyInfo.cs
+C:\work\DevCon.Code\DevCon.Code.Business\obj\Debug\netstandard2.1\DevCon.Code.Business.csproj.CoreCompileInputs.cache
+C:\work\DevCon.Code\DevCon.Code.Business\bin\Debug\netstandard2.1\DevCon.Code.Business.deps.json
+C:\work\DevCon.Code\DevCon.Code.Business\bin\Debug\netstandard2.1\DevCon.Code.Business.dll
+C:\work\DevCon.Code\DevCon.Code.Business\bin\Debug\netstandard2.1\DevCon.Code.Business.pdb
+C:\work\DevCon.Code\DevCon.Code.Business\bin\Debug\netstandard2.1\DevCon.Code.Common.dll
+C:\work\DevCon.Code\DevCon.Code.Business\bin\Debug\netstandard2.1\DevCon.Code.Common.pdb
+C:\work\DevCon.Code\DevCon.Code.Business\obj\Debug\netstandard2.1\DevCon.Code.Business.dll
+C:\work\DevCon.Code\DevCon.Code.Business\obj\Debug\netstandard2.1\DevCon.Code.Business.pdb

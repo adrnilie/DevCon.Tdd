@@ -1,0 +1,10 @@
+C:\work\DevCon.Code\DevCon.Code.Messaging\bin\Debug\netstandard2.1\DevCon.Code.Messaging.deps.json
+C:\work\DevCon.Code\DevCon.Code.Messaging\bin\Debug\netstandard2.1\DevCon.Code.Messaging.dll
+C:\work\DevCon.Code\DevCon.Code.Messaging\bin\Debug\netstandard2.1\DevCon.Code.Messaging.pdb
+C:\work\DevCon.Code\DevCon.Code.Messaging\obj\Debug\netstandard2.1\DevCon.Code.Messaging.csproj.AssemblyReference.cache
+C:\work\DevCon.Code\DevCon.Code.Messaging\obj\Debug\netstandard2.1\DevCon.Code.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\DevCon.Code\DevCon.Code.Messaging\obj\Debug\netstandard2.1\DevCon.Code.Messaging.AssemblyInfoInputs.cache
+C:\work\DevCon.Code\DevCon.Code.Messaging\obj\Debug\netstandard2.1\DevCon.Code.Messaging.AssemblyInfo.cs
+C:\work\DevCon.Code\DevCon.Code.Messaging\obj\Debug\netstandard2.1\DevCon.Code.Messaging.csproj.CoreCompileInputs.cache
+C:\work\DevCon.Code\DevCon.Code.Messaging\obj\Debug\netstandard2.1\DevCon.Code.Messaging.dll
+C:\work\DevCon.Code\DevCon.Code.Messaging\obj\Debug\netstandard2.1\DevCon.Code.Messaging.pdb

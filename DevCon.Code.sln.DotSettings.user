@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8a8d5ac_002D6b7b_002D412e_002Db81f_002Da5cdb3129442/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DevConUserControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Not&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;Project Location="C:\work\DevCon.Code\DevCon.Code.Testing" Presentation="&amp;lt;Testing&amp;gt;\&amp;lt;DevCon.Code.Testing&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;DevCon.Code.Testing.Multiple_Assertions&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
+  &lt;/Not&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c410ee96_002D6598_002D441d_002D9507_002D117f1c4e9471/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DevConUserControllerBadTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::340D1231-11F4-4AA1-8BB6-F159264B8AF9::net5.0::DevCon.Code.Testing.DevConUserControllerBadTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
